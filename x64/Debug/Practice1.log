@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\Eduard\source\repos\Practice1\main.c(33,20): warning C4098: SPOP: функция типа "void", возвращающая значение
+C:\Users\Eduard\source\repos\Practice1\main.c(56,34): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Eduard\source\repos\Practice1\main.c(81,34): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Eduard\source\repos\Practice1\main.c(90,34): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Eduard\source\repos\Practice1\main.c(184,34): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Eduard\source\repos\Practice1\main.c(209,34): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Eduard\source\repos\Practice1\main.c(218,34): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Eduard\source\repos\Practice1\main.c(786,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Practice1.vcxproj -> C:\Users\Eduard\source\repos\Practice1\x64\Debug\Practice1.exe
